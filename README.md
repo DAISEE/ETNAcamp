@@ -1,5 +1,3 @@
-# ETNAcamp
-
 ![](https://github.com/DAISEE/MasterCamp-ETNA/blob/master/docs/MasterCampETNA.png)
 
 Ce dépôt a été mis en place pour les étudiant.e.s de l'école d'informatique ETNA participant à l'ETNAcamp' (13-17 Février 2017), une semaine d'apprentissage - sur projet - des technologies de registre distribué (Bitcoin, Ethereum, Hyperledger). 
