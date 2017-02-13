@@ -4,6 +4,8 @@ Ce dépôt a été mis en place pour les étudiant.e.s de l'école d'informatiqu
 
 Dans le cadre de cet exercice, les étudiants endossent le rôle de contributeurs, avec le soutien de la communauté. Ils sont confronté à un 'challenge' d'écriture de contrats énergétiques Ethereum pour assurer un équilibrage local conso / prod.
 
+Les groupes pushent dans ce même répertoire (tous les groupes ont le code de l'ensemble des groupes). Les issues sont créées vec un lien vers un déport par projet (hors Daisee) ; chaque groupe est autonome (notamment sur les process de MAJ).
+
 Ressources mises à disposition : 
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Base de connaissance](https://frama.link/DAISEE-knowledge)
