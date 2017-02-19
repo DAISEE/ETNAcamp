@@ -10,5 +10,5 @@ Résultats de cette semaine :
 Ressources mises à dispo : 
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Base de connaissance](https://frama.link/DAISEE-knowledge)
-- [Wiki du proto v0.1](https://github.com/DAISEE/ETNAcamp/wiki)
+- [Wiki de la base de prototypage](https://github.com/DAISEE/ETNAcamp/wiki)
 - [Forum](https://daisee.org) ([channel #etnacamp](https://chat.daisee.org/channel/etnacamp))
