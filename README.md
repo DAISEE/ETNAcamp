@@ -7,7 +7,7 @@ Dans le cadre de cet exercice, les étudiants ont endossé le rôle de contribut
 Résultats de cette semaine : 
 - [Groupe 1/Groupe2](https://github.com/DAISEE/ETNAcamp/blob/master/docs/ETNACamp_G1_G2.pdf)
 
-Ressources mises à disposition : 
+Ressources mises à dispo : 
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Base de connaissance](https://frama.link/DAISEE-knowledge)
 - [Forum](https://daisee.org) ([channel #etnacamp](https://chat.daisee.org/channel/etnacamp))
