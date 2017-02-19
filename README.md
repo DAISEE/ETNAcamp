@@ -4,10 +4,10 @@ Ce dépôt a été mis en place pour les étudiant.e.s de l'école d'informatiqu
 
 Dans le cadre de cet exercice, les étudiants ont endossé le rôle de contributeurs, avec le soutien de la communauté. Ils se sont confrontés à un 'challenge' d'écriture de "contrats énergétiques" pour assurer un équilibrage local conso / prod.
 
-Résultats de cette semaine : 
+**Résultats de cette semaine** : 
 - [Groupe 1 / Groupe2](https://github.com/DAISEE/ETNAcamp/blob/master/docs/ETNACamp_G1_G2.pdf)
 
-Ressources mises à dispo : 
+**Ressources mises à dispo** : 
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Base de connaissance](https://frama.link/DAISEE-knowledge)
 - [Wiki de la base de prototypage](https://github.com/DAISEE/ETNAcamp/wiki)
