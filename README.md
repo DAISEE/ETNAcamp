@@ -1,4 +1,4 @@
-Ce dépôt a été mis en place pour les étudiant.e.s de l'école d'informatique [ETNA](http://www.etna.io/alternance/) participant aux ETNAcamps (semaine d'apprentissage par projet) dédiés aux technologies de registre distribué (Bitcoin, Ethereum, Hyperledger). 
+Ce dépôt a été mis en place pour les étudiant.e.s de l'école d'informatique [ETNA](http://www.etna.io/alternance/) qui ont participé aux ETNAcamps (semaine d'apprentissage par projet) dédiés aux technologies de registre distribué (Bitcoin, Ethereum, Hyperledger). 
 
 Dans le cadre de cet exercice, les étudiants ont endossé le **rôle de contributeurs**, avec le soutien de la communauté. Ils se sont confrontés à un 'challenge' d'écriture de "contrats énergétiques" pour assurer un équilibrage local conso / prod.
 
