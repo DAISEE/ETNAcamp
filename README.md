@@ -5,18 +5,19 @@ Dans le cadre de cet exercice, les étudiants ont endossé le **rôle de contrib
 ## Codecamp #2 (26-30 juin 2017)
 
 **Résultat de cette semaine**
+- _Documentation à venir_
 
-**Ressources de la semaine** :
+**Ressources de la semaine**
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Wiki du prototype (vO.2)](https://github.com/DAISEE/ETNAcamp/wiki)
 - [Forum](https://daisee.org) ([channel #etnacamp2](https://chat.daisee.org/channel/etnacamp2))
 
 ## Codecamp #1 (13-17 février 2017)
 
-**Résultats de cette semaine** : 
+**Résultats de cette semaine**
 - [Groupe 1 / Groupe2](https://github.com/DAISEE/ETNAcamp/blob/master/docs/ETNACamp_G1_G2.pdf)
 
-**Ressources de la semaine** : 
+**Ressources de la semaine**
 - [Description du challenge](https://frama.link/DAISEE-ETNA)
 - [Wiki du prototype (vO.1)](https://github.com/DAISEE/ETNAcamp/wiki)
 - [Forum](https://daisee.org) ([channel #etnacamp1](https://chat.daisee.org/channel/etnacamp1))
